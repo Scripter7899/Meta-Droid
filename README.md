@@ -10,9 +10,9 @@ Create metasploit payload easily using Paybag
 ### For Linux users -
     sudo apt-get install python3 python3-pip net-tools
     
-    git clone https://github.com/Deadpool2000/Paybag.git
+    git clone https://github.com/Scripter7899/Meta-Droid.git
     
-    cd Paybag
+    cd Meta-Droid
     
     sudo pip3 install -r requirements.txt
     
@@ -21,9 +21,9 @@ Create metasploit payload easily using Paybag
 ### For Termux users -
     apt install python wget 
     
-    git clone https://github.com/Deadpool2000/Paybag.git
+    git clone https://github.com/Scripter7899/Meta-Droid.git
     
-    cd Paybag
+    cd Meta-Droid
     
     pip install -r requirements.txt
     
@@ -53,13 +53,4 @@ Create metasploit payload easily using Paybag
 -----------------------------------------------------------------------------------------------------
 
 ### Tested on - Ubuntu 20.04, Kali linux & Termux
-
------------------------------------------------------------------------------------------------------
-
-### If you have any issue regarding this,report an issue [here](https://github.com/Deadpool2000/Paybag/issues)
-
-
------------------------------------------------------------------------------------------------------
-
-## P.S. - Somebody already stole this script and even I'm not surprised ;)
 
